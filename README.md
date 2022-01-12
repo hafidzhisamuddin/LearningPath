@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafidzhisamuddin.
 - 👀 I’m interested in Data Science, Machine Learning , AI and Big Data.
 - 🌱 This repo is of my learning process.
-- 📫 How to reach me ...
+- 📫 Can reach me thru Linkedin at https://www.linkedin.com/in/hafidz-hisamuddin/
 
 <!---
 hafidzhisamuddin/hafidzhisamuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
