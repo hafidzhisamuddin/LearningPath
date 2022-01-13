@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hafidzhisamuddin.
+- 👋 Hi, I’m @hafidzhisamuddin. Working as Data Scientist in an Oil and Gas company. 
 - 👀 I’m interested in Data Science, Machine Learning , AI and Big Data.
-- 🌱 This repo is of my learning process.
+- 🌱 This repo is of my learning process for my reference.
 - 📫 Can reach me thru Linkedin at https://www.linkedin.com/in/hafidz-hisamuddin/
 
 <!---
